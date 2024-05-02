@@ -1,2 +1,5 @@
 # Responsive-Landing-page
-This is my internship project
+
+In this project user can hover over the navbar and click to scroll pages
+
+Created using scrollIntoView(); method
